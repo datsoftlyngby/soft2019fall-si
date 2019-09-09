@@ -1,0 +1,17 @@
+# Ignore Java generated files
+**/bin
+**/logs
+*.class
+*.log
+*.tmp
+
+# Ignore MacOS folder dummy
+.DS_Store
+Thumbs.db
+
+# Workspaces
+.idea/workspace.xml
+
+# My scripts
+./myscripts/*.sh
+
