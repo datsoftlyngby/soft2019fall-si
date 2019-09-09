@@ -41,8 +41,8 @@ This folder contains resources related to the System Integration topics, discuss
       
 <h3>Homework Assignments <a href="https://app.peergrade.io/teacher/courses/cad8c537-e32d-4552-b083-27aa02dfe9e6/assignments"> (Peergrade) </a> </h3>
 <ul>
-	<li>Reading Task</li>
-	<li>Programming Tasks</li>
+	<li>Reading Task: RPC Message Protocol</li>
+	<li>Programming Tasks: RPC/RMI Stud Admin Project</li>
 </ul>	
 	
 <h3>Other Learning Resources</h3>
@@ -54,4 +54,4 @@ This folder contains resources related to the System Integration topics, discuss
 <h3>Course Info</h3>
 General information about the course <a href="https://datsoftlyngby.github.io/soft2019fall/SI/course-info.html"> System Integration</a>
 <h3>Tentative Plan</h3>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Info/tentative-plan.md">System Integration course contents</a> schedulled by sessions/weeks.</a>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Info/tentative-plan">System Integration course contents</a> schedulled by sessions/weeks.</a>
