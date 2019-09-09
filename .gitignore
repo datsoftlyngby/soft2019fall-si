@@ -13,5 +13,5 @@ Thumbs.db
 .idea/workspace.xml
 
 # My scripts
-./myscripts/*.sh
+myscripts/*.sh
 
