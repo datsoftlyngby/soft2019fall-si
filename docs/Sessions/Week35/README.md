@@ -97,4 +97,4 @@ This folder contains resources related to the System Integration topics, discuss
 <h3>Course Info</h3>
 General information about the course <a href="https://datsoftlyngby.github.io/soft2019fall/SI/course-info.html"> System Integration</a>
 <h3>Tentative Plan</h3>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Info/tentative-plan.md">System Integration course contents</a> schedulled by sessions/weeks.
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Info/tentative-plan">System Integration course contents</a> schedulled by sessions/weeks.
