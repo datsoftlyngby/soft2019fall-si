@@ -1,5 +1,5 @@
 ## Introduction
-Here you can find some developer support links<br>
+Here you can find some developer support links, such as:<br>
 
 #### Linux Commands
 [Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
