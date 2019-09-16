@@ -1,2 +1,2 @@
 ## Assignments
-Homework assignments can be found inside the week overview above.
+Homework assignments are hosted in Peergrade, as well as inside this week's overview.
