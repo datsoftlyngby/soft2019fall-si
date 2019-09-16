@@ -11,5 +11,3 @@ Create an application, which is able to identify and print out the geographical 
 ![NetBeans Server](https://github.com/datsoftlyngby/soft2019fall-si/blob/master/docs/Sessions/Week37/Resources/Images/netbeans-server.tiff)
 
 ![Intellij Client](https://github.com/datsoftlyngby/soft2019fall-si/blob/master/docs/Sessions/Week37/Resources/Images/Intellij-client.tiff)
-
-![Intellij Client](https://github.com/datsoftlyngby/soft2019fall-si/blob/master/docs/Sessions/Week37/Resources/Images/p2p.png)
