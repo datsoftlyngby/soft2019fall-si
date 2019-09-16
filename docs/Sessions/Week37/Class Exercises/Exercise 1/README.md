@@ -6,3 +6,6 @@ Create an application, which is able to identify and print out the geographical 
 - Search Internet and find a repository, which provides such a service as SOAP web service<br>
 <u>Hint</u>: check http://wsgeoip.lavasoft.com
 - Create a client application, which consumes this service
+
+
+![](../Images/netbeans-server.tiff)
