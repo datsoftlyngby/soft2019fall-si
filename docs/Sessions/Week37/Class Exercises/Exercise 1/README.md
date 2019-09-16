@@ -8,4 +8,4 @@ Create an application, which is able to identify and print out the geographical 
 - Create a client application, which consumes this service
 
 
-![](../Images/netbeans-server.tiff)
+![](../../Resources/Images/netbeans-server.tiff)
