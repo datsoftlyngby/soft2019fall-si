@@ -7,7 +7,10 @@ Create an application, which is able to identify and print out the geographical 
 <u>Hint</u>: check http://wsgeoip.lavasoft.com
 - Create a client application, which consumes this service
 
+### NetBeans Web Services Provider
 
 ![NetBeans Server](https://github.com/datsoftlyngby/soft2019fall-si/blob/master/docs/Sessions/Week37/Resources/Images/netbeans-server.png)
+
+### Intellij Web Services Consumer
 
 ![Intellij Client](https://github.com/datsoftlyngby/soft2019fall-si/blob/master/docs/Sessions/Week37/Resources/Images/Intellij-client.png)
