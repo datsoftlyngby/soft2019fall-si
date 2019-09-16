@@ -7,6 +7,6 @@ Create an application, which is able to identify and print out the geographical 
 <u>Hint</u>: check http://wsgeoip.lavasoft.com
 - Create a client application, which consumes this service
 
-![ ](/../../Resources/netbeans-server.tiff)
+![ ](/../../../docs/Sessions/Week37/Resources/netbeans-server.tiff)
 
-![ ](/../../Resources/intellij.tiff)
+![ ](/../../docs/Sessions/Week37/Resources/intellij.tiff)
