@@ -6,9 +6,9 @@
 The main objective of this task is to provide the students with practical experience in creating and integrating small-scale enterprise applications with a service-oriented architecture.
 
 ### Tasks
-1.    Create __at least one SOAP-based__ and __at least one RESTful__ web services, which deliver resources, valuable for a selected business. 
-2.    Deploy the services on either a local or a remote server.
-3.    Create a client application consuming the web services.
+1. Create __at least one SOAP-based__ and __at least one RESTful__ web services, which deliver resources, valuable for a selected business. 
+2. Deploy the services on either a local or a remote server.
+3. Create a client application consuming the web services.
 
 ### Requirements
 This project is mandatory :round_pushpin: 
@@ -26,4 +26,7 @@ The project contains a __readme.txt__ file with the following attributes:
 - installation instructions
 
 ### Presentation and Demonstration
-The project solutions are subject to public presentation in class on 26/09/2019, according the plan. 
+The project solutions are subject to 
+- delivery in [Peergrade](https://app.peergrade.io), 
+- public presentation in class on 26/09/19, according the plan, as well as 
+- giving and receiving feedback.
