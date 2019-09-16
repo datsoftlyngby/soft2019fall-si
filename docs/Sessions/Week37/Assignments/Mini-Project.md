@@ -28,5 +28,5 @@ The project contains a __readme.txt__ file with the following attributes:
 ### Presentation and Demonstration
 The project solutions are subject to 
 - delivery in [Peergrade](https://app.peergrade.io), 
-- public presentation in class on 26/09/19, according the plan, as well as 
+- public presentation in class on :calendar: 26/09/19, according the plan, as well as 
 - giving and receiving feedback.
