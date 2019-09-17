@@ -6,13 +6,15 @@ This folder contains resources related to the System Integration topics, discuss
 	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week36>Recap of Distributed Computing and RPC</a></li>
 	<li>Web Services</li>
 	<li>SOAP Web Services</li>
-	<li>- WSDL format specification</li>
-	<li>- SOAP protocol specification</li>
-  	<li>- UDDI format specification</li>
+	   <ul>
+		<li> WSDL format specification</li>
+		<li> SOAP protocol specification</li>
+  		<li> UDDI format specification</li>
+	    </ul>
   	<li>Java Technologies for Web Services</li>
   	<li>Class Exercises</li>
 	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week38>Coming next</a></li>
-</ul>	
+</ul>
 
 <h3>Intended Learning Objectives</h3>
 <ul>
@@ -38,21 +40,20 @@ This folder contains resources related to the System Integration topics, discuss
   
 <h3>Programming Exercises</h3>
 <ul>
-	<li><a href="<a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week37/Class%20Exercises>"> P4</a></li> 
-	<li><<a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week37/Class%20Exercises">P5</a></li> 
+	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week37/Class%20Exercises/Exercise%201>Exercise 1</a></li> 
+	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week37/Class%20Exercises/Exercise%202>Exercise 2</a></li> 
+	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week37/Class%20Exercises/Exercise%203>Exercise 3</a></li> 
 </ul>
       
 <h3>Homework Assignments <a href="https://app.peergrade.io/teacher/courses/cad8c537-e32d-4552-b083-27aa02dfe9e6/assignments"> (Peergrade) </a> </h3>
-<ul>
-	<li>Reading Task: RPC Message Protocol</li>
-	<li>Programming Tasks: RPC/RMI Stud Admin Project</li>
-</ul>	
+It is a bigger programming task of developing business application, which consumes at least two web services: one SOAP and one REST.<br>
+The RESTfull web services are explained in the next session.
 	
 <h3>Other Learning Resources</h3>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36/Resources/">Link to Resources</a>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week37/Resources/">Link to Resources</a>
 
 <h3>Coming Next</h3>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week37/">Link to Next Topic</a>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week38/">Link to Next Topic</a>
 <hr>
 <h3>Course Info</h3>
 General information about the course <a href="https://datsoftlyngby.github.io/soft2019fall/SI/course-info.html"> System Integration</a>
