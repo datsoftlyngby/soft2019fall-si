@@ -1,4 +1,4 @@
-# Week 37: Webservices
+# Week 37: Web Services, SOAP
 This folder contains resources related to the System Integration topics, discussed during the third semester week.	
 <h2>Overview</h2>
 <h3>Agenda</h3>
