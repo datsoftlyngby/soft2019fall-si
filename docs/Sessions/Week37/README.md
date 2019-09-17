@@ -46,14 +46,14 @@ This folder contains resources related to the System Integration topics, discuss
 </ul>
       
 <h3>Homework Assignments <a href="https://app.peergrade.io/teacher/courses/cad8c537-e32d-4552-b083-27aa02dfe9e6/assignments"> (Peergrade) </a> </h3>
-It is a bigger programming task of developing business application, which consumes at least two web services: one SOAP and one REST.<br>
-The RESTfull web services are explained in the next session.
+It is a group project, a larger programming task of developing business application, which consumes at least two web services: one SOAP and one REST.<br>
+The RESTful web services are explained in the next session.
 	
 <h3>Other Learning Resources</h3>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week37/Resources/">Link to Resources</a>
 
 <h3>Coming Next</h3>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week38/">Link to Next Topic</a>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week38/">RESTful Web Services </a>
 <hr>
 <h3>Course Info</h3>
 General information about the course <a href="https://datsoftlyngby.github.io/soft2019fall/SI/course-info.html"> System Integration</a>
