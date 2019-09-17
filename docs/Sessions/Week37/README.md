@@ -29,17 +29,17 @@ This folder contains resources related to the System Integration topics, discuss
 <ul>
 	<li>Discussion on distributed computing and RPC</li>
 	<li>Interactive presentation</li>
-	<li>Programming exercises on creating and consuming public and private SOAP web services</li>	
+	<li>Programming exercises on creating and consuming public and private SOAP web services</a></li>	
 	<li>Out-of-class work - researching and programming</li>
 </ul>
  
 <h3>Lecture Notes</h3>
-  	<a href="https://cphbusiness.mrooms.net/pluginfile.php/277596/mod_resource/content/1/RPCRMI.pdf">Session 2: Distributed Computing, RPC and RMI</a>
+  	<a https://cphbusiness.mrooms.net/mod/resource/view.php?id=167165">Session 3: Web Services, SOAP</a>
   
 <h3>Programming Exercises</h3>
 <ul>
-	<li><a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36/Class%20Exercises#P4-RMI"> P4</a></li> 
-	<li><a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36/Class%20Exercises#P5-RMIDB">P5</a></li> 
+	<li><a href="<a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week37/Class%20Exercises>"> P4</a></li> 
+	<li><<a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week37/Class%20Exercises">P5</a></li> 
 </ul>
       
 <h3>Homework Assignments <a href="https://app.peergrade.io/teacher/courses/cad8c537-e32d-4552-b083-27aa02dfe9e6/assignments"> (Peergrade) </a> </h3>
