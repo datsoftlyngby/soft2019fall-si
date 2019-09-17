@@ -1,6 +1,4 @@
-## Introduction
-Here you can find some developer support links, such as:<br>
+## Dev Tools
+Here you can find some developer supporting instruments and links:<br><br>
 
-#### Linux Commands
-- [Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
-- [A-Z Index](https://ss64.com/bash/)
+[Linux Commands A-Z Index](https://ss64.com/bash/)
