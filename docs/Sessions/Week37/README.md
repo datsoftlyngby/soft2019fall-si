@@ -3,34 +3,34 @@ This folder contains resources related to the System Integration topics, discuss
 <h2>Overview</h2>
 <h3>Agenda</h3>
 <ul>
-	<li>Recap of Distributed Computing and RPC</li>
+	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week36>Recap of Distributed Computing and RPC</a></li>
 	<li>Web Services</li>
 	<li>SOAP Web Services</li>
-	<li>WSDL format specification</li>
-	<li>SOAP protocol specification</li>
-  <li>UDDI format specification</li>
-  <li>Java Technologies for Web Services</li>
-  <li>Class Exercises</li>
-	<li>Coming next</li>
+	<li>- WSDL format specification</li>
+	<li>- SOAP protocol specification</li>
+  	<li>- UDDI format specification</li>
+  	<li>Java Technologies for Web Services</li>
+  	<li>Class Exercises</li>
+	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week38>Coming next</a></li>
 </ul>	
 
-<h3>Learning Objectives</h3>
+<h3>Intended Learning Objectives</h3>
 <ul>
-	<li>Get acquainted with the challenges and evolution of technologies for developing distributed applications</li>
-	<li>Understand the basic concepts of distributed computing in system integration</li>
-	<li>To be able to explain the difference between</li>
-	<li>Be able to compare and explain the difference between P2P and distributed technologies for integration</li>
+	<li>Get acquainted with one of the most significant and popular technology for integration of legacy systems, which will be experienced in various implementations</li>
+	<li>Be able to compare different technologies and discover their advantages and disadvantages</li>
+	<li>Get to know how to integrate web services from public sources and how to create your own, which provide extended value for certain business</li>
+	<li>Be able to explain the role of XML and XML-based communication protocols in system integration</li>
 	<li>Get familiar with the process of development and deployment of RPC and RMI applications, distributed on multiple computers</li>
-	<li>Get experience in working with distributed applications</li>
-	<li>To get programming practice in integrating applications by RPC/RMI technology</li>	
+	<li>Get hands-on experience in developing integrated web applications</li>
+	<li>Meet the challenges, related to developing software on different platforms and by use of different tools</li>	
 </ul>
-  
+
 <h3>Teaching and Learning Activities</h3>
 <ul>
+	<li>Discussion on distributed computing and RPC</li>
 	<li>Interactive presentation</li>
-	<li>Programming exercises on distributed computing</li>
-	<li>Coding RMI Server and Client applications</li>
-	<li>Out-of-class work - reading and programming task </li>
+	<li>Programming exercises on creating and consuming public and private SOAP web services</li>	
+	<li>Out-of-class work - researching and programming</li>
 </ul>
  
 <h3>Lecture Notes</h3>
