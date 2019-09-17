@@ -1,8 +1,7 @@
-# soft2019fall-si
+During the semester you will be working in groups on three mini projects, shortly described as 
+- Web Services, 
+- Enterprise Integration Patterns, and 
+- Microservices Architecture.
 
-This repo contains teaching materials used in the System Integration classes at CPHbusiness during 2019 Fall semester.<br>
-The documents are organized in folders on weekly basis, and contain lecture notes, programming assignments, reference to reading resources, and other useful links.
-
-The information can be obtained from either [Moodle] (https://cphbusiness.mrooms.net/course/view.php?id=3872) or a GitHub Pages web site: https://datsoftlyngby.github.io/soft2019fall-si.
-
-
+All projects consist of design and development of a small software application, which illustrates a practical implementation of the system integration concepts, discussed in class.<br><br>
+There is no expectation for submition of a written report, related to the project. Instead, a _public presentation_ of the solutions to the class, where _each team member_ participates, is required.
