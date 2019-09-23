@@ -46,7 +46,7 @@ This folder contains resources related to the System Integration topics, discuss
 It is a group project, a larger programming task of developing business application, which consumes at least two web services: one SOAP and one REST.<br>
 	
 <h3>Other Learning Resources</h3>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week38/Resources/">Link to Resources</a>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week38/Resources/">Link to Resources</a><br>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/code">Code Snippets</a>
 
 <hr>
