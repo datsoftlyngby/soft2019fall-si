@@ -40,17 +40,15 @@ This folder contains resources related to the System Integration topics, discuss
   	<a href="https://cphbusiness.mrooms.net/pluginfile.php/282621/mod_resource/content/1/Session4WSREST.pdf">Session 4: Web Services, REST</a>
   
 <h3>Programming Exercises</h3>
-<ul>
-	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week38/Class%20Exercises/Exercise%201>Exercise 1</a></li> 
-	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week38/Class%20Exercises/Exercise%202>Exercise 2</a></li> 
-	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week38/Class%20Exercises/Exercise%203>Exercise 3</a></li> 
-</ul>
+	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week38/Assignments>Assignments</a></li> 
       
 <h3>Homework Assignments <a href="https://app.peergrade.io/teacher/courses/cad8c537-e32d-4552-b083-27aa02dfe9e6/assignments"> (Peergrade) </a> </h3>
 It is a group project, a larger programming task of developing business application, which consumes at least two web services: one SOAP and one REST.<br>
 	
 <h3>Other Learning Resources</h3>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week38/Resources/">Link to Resources</a>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week38/Resources/">Link to Resources</a>
+
 <hr>
 <h3>Coming Next</h3>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week39/">Wrap Up First Flow</a>
