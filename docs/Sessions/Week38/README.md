@@ -47,7 +47,7 @@ It is a group project, a larger programming task of developing business applicat
 	
 <h3>Other Learning Resources</h3>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week38/Resources/">Link to Resources</a>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week38/Resources/">Link to Resources</a>
+<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/code">Code Snippets</a>
 
 <hr>
 <h3>Coming Next</h3>
@@ -57,5 +57,4 @@ It is a group project, a larger programming task of developing business applicat
 General information about the course <a href="https://datsoftlyngby.github.io/soft2019fall/SI/course-info.html"> System Integration</a>
 <h3>Tentative Plan</h3>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Info/tentative-plan">System Integration course contents</a> schedulled by sessions/weeks.</a>
-
 
