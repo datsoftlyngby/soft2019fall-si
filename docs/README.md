@@ -6,7 +6,7 @@ General information about the course ["System Integration"](https://datsoftlyngb
 
 ---
 ## Weekly Resources
-<details><summary> </summary>  	
+<details><summary>List</summary>  	
   
   [Week 35: P2P Communication](https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week35)     
   [Week 36: Distributed Computing, RPC/RMI](https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week36)   
