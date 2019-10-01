@@ -6,4 +6,4 @@ This week we start diving into the second stream of our course content: business
 or [https://www.softwaresuggest.com/us/bpm-business-process-management-software](https://www.softwaresuggest.com/us/bpm-business-process-management-software). <br>Some of these tools are meant for non-developers (low-code platforms), while others are used for facilitating the communication between the developers and business users and involve coding. 
 1.	Be able to _name some products_ and some _criteria for comparing_ them.
 2.	Instead of focusing on the differences between the products, get acquainted with the standard, which most of them share in following: [BPMN 2.0.2](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
-3.	Download the poster from http://www.bpmb.de/images/BPMN2_0_Poster_EN.pdf and try to learn from it what a BPMN diagram is and what is its role. You will be able to experience it in the next sessions.
+3.	Download the poster from http://www.bpmb.de/images/BPMN2_0_Poster_EN.pdf and try to learn from it _what a BPMN diagram is_ and _what is its role_. You will be able to experience it in the next sessions.
