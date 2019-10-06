@@ -9,7 +9,7 @@
     <hr>
     <h2>Weekly Resources</h2><p></p>
     <details>
-      <summary>_click to open_</summary>     
+      <summary><i>click to open</i></summary>     
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week35">Week 35: P2P Communication</a><br>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36">Week 36: Distributed Computing, RPC/RMI</a><br>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week37">Week 37: Web Services, SOAP</a><br>
