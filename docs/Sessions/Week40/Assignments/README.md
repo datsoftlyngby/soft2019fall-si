@@ -18,4 +18,4 @@ BPMN model of __at least one business process__, which contains __at least three
 - human task, and 
 - automated service.
 
-Upload to Peergrade either or both the XML file or/and the graphical model.
+Upload the graphical model, its XML file, and any other relevant deployment component.
