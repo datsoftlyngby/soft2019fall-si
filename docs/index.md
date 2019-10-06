@@ -9,11 +9,22 @@
     <hr>
     <h2>Weekly Resources</h2><p></p>
     <details>
-      <summary> </summary>
-      
+      <summary>_click to open_</summary>     
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week35">Week 35: P2P Communication</a><br>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36">Week 36: Distributed Computing, RPC/RMI</a>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week37">Week 36: Web Services, SOAP</a>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36">Week 36: Distributed Computing, RPC/RMI</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week37">Week 37: Web Services, SOAP</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week35">Week 38: REST, RESTful</a><br>
+Mini Project 1<br>     
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week37">Week 40: BPM, BPMN</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week35">Week 41: SOA, ESB</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36">Week 43: MOM</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week37">Week 44: EIP</a><br>
+Mini Project 2<br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36">Week 46: Microservices Architecture</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week37">Week 47: Choreography and Orchestration</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36">Week 48: APIs</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week37">Week 49: iPaaS</a><br>
+Mini Project 3<br>
   </details>
   </body>
 </html>
