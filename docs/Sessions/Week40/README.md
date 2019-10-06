@@ -32,14 +32,14 @@ This folder contains resources related to the System Integration topics, discuss
 	<li>Interactive presentation</li>
 	<li>Information search</a></li>	
 	<li>Software exploring</li>
-  <li>Programming exercises</li>
+  	<li>Programming exercises</li>
 </ul>
  
 <h3>Lecture Notes</h3>
   	<a href="https://cphbusiness.mrooms.net/pluginfile.php/286156/mod_resource/content/2/Session5BPM.pdf">Session 5: BPM, BPMN</a>
   
 <h3>Programming Exercises</h3>
-	<li><a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week40/Assignments">Assignments</a></li> 
+	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week40/Assignments">Assignments</a><br> 
 	
 <h3>Other Learning Resources</h3>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week40/Resources/">Link to Resources</a><br>
