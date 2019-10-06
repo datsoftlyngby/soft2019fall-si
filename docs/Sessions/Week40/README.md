@@ -30,7 +30,7 @@ This folder contains resources related to the System Integration topics, discuss
 <ul>
 	<li>Mentimeter Quizzes</li>
 	<li>Interactive presentation</li>
-	<li>Information search</a></li>	
+	<li>Information search</li>	
 	<li>Software exploring</li>
   	<li>Programming exercises</li>
 </ul>
@@ -39,7 +39,7 @@ This folder contains resources related to the System Integration topics, discuss
   	<a href="https://cphbusiness.mrooms.net/pluginfile.php/286156/mod_resource/content/2/Session5BPM.pdf">Session 5: BPM, BPMN</a>
   
 <h3>Programming Exercises</h3>
-	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week40/Assignments">Assignments</a><br> 
+	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week40/Assignments">Assignments</a> 
 	
 <h3>Other Learning Resources</h3>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week40/Resources/">Link to Resources</a><br>
