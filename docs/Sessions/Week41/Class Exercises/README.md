@@ -22,7 +22,7 @@ Validate the integration by examples of spam and no-spam tests.
 ## Exercise 4: Topic Selection (≈ 30 min)
 In this example, the messages of the Producer are tagged with keywords, describing the topics in the content, using the pattern <topic1>.<topic2>.<topic3>
 Each consumers specifies the topics it is interested in by expression, using the characters ‘*’  and  ‘#’ in the pattern (the character ‘*’ represents any number of topics, and the character ‘#’ replaces exactly one topic.
-Example: If the Producer announces __‘<country>.<day>.<sport>’__, the consumer expression 
+Example: If the Producer announces __'country.day.sport'__, the consumer expression 
 -	__‘denmark.*.football’__ would register my interest in Denmark’s football news of any day, while 
 -	__‘#.golf’__ would register interest in any golf news from all over the world.
 
