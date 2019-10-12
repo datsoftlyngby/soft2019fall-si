@@ -13,5 +13,3 @@ The customer application
 -	collects non-binding bank quotes from (simulated) bank applications; 
 -	compares the quotes and selects one, based on its own financial status and criteria
 <br>See https://www.gocompare.com/loans/ for inspiration.
-
-
