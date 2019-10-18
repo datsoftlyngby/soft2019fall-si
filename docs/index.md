@@ -16,9 +16,9 @@
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week38">Week 38: REST, RESTful</a><br>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week39">Week 39: Mini Project 1</a><br>     
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week40">Week 40: BPM, BPMN</a><br>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week41">Week 41: SOA, ESB</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week41">Week 41: SOA and Middleware</a><br>
       <i>Vacation</i><br>      
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week43">Week 43: MOM</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week43">Week 43: MOM and ESB</a><br>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week44">Week 44: EIP</a><br>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week39">Week 45: Mini Project 2</a><br> 
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week46">Week 46: Microservices Architecture</a><br>
