@@ -8,3 +8,5 @@
 - https://www.youtube.com/watch?v=Z3UJFkOd2CU 
 - https://www.youtube.com/watch?v=hC_N3Jo_L2Y
 
+# Software
+[Rabbit MQ](https://www.rabbitmq.com/download.html)
