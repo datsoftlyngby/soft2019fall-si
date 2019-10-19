@@ -1,4 +1,4 @@
-# Reading Assignment
+# Reading Assignment (≈ 3h)
 In the coming week we go deeper into the messaging systems in enterprise integration and learn the best practices of using them.
 One of the signature readings in this area is the book of Gregor Hohpe and Bobby Woolf _"Enterprise Integration Patterns
 Designing, Building, and Deploying Messaging Solutions"_.<br>
