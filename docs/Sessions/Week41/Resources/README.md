@@ -9,4 +9,5 @@
 - https://www.youtube.com/watch?v=hC_N3Jo_L2Y
 
 # Software
-[Rabbit MQ](https://www.rabbitmq.com/download.html)
+- [Rabbit MQ](https://www.rabbitmq.com/download.html)
+- [WSO2](https://docs.wso2.com/display/ESB481/Installing+the+Product)
