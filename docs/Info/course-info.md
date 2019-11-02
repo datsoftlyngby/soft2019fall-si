@@ -5,13 +5,13 @@
 	tdi@cphbusiness.dk
 
 ## Contents
-- [Introduction](#Introduction)
-- [Learning Objectives](#Learning-Objectives)
-- [Course Content / Tentative Plan](#Course-Content-/-Tentative-Plan) 
-- [Assignments](#Assignments)
-- [Score](#Score)
-- [Exam](#Exam)
-- [Resources](#Resources)
+- [Introduction](#introduction)
+- [Learning Objectives](#learning-objectives)
+- [Course Content/Tentative Plan](#course-content-and-tentative-plan) 
+- [Assignments](#graded-assignments)
+- [Score](#score)
+- [Exam](#exam)
+- [Resources](#recommended-books)
 
 ## Introduction
 
@@ -63,7 +63,7 @@ Den studerende kan:
 - tilpasse IT-arkitektur, så der tages højde for fremtidig integration af systemer.
 
 
-## Course Content / Tentative Plan 
+## Course Content and Tentative Plan
 Here is a tentative plan of topics and teaching sessions (please, be aware it may be updated in the way).
 						
      						
@@ -87,7 +87,7 @@ Here is a tentative plan of topics and teaching sessions (please, be aware it ma
 | 14         | 04/12/2019 | 15          | 49            | Agile development and integration, DevOps technologies and tools    | Cloud computing, CI/CD                                     | Jenkins, IBM cloud              |
 | 15         | 11/12/2019 | 16          | 50            | Group Project 3                                                     | Presentations and feedback                                 |                                 |
 
-## Assignments
+## Graded Assignments
 During the semester, you will work on various projects and programming tasks. 
 There will be **three group projects**, **four individual homework tasks**, **two peer grade tasks**, and **one multiple choice test**, as shown below.
 Each assignment provides certain number of credit points. The total number of points is 100. 
