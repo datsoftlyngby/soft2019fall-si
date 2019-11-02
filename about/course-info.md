@@ -5,13 +5,13 @@
 	tdi@cphbusiness.dk
 
 ## Contents
-- [Introduction](#Introduction)
-- [Learning Objectives](#Learning-Objectives)
-- [Course Content / Tentative Plan](#Course-Content-/-Tentative-Plan) 
-- [Assignments](#Assignments)
-- [Score](#Score)
-- [Exam](#Exam)
-- [Resources](#Resources)
+- [Introduction](#introduction)
+- [Learning Objectives](#learning-objectives)
+- [Tentative Plan](#tentative-plan) 
+- [Assignments](#assignments)
+- [Score](#score)
+- [Exam](#exam)
+- [Resources](#recommended-books)
 
 ## Introduction
 
@@ -63,7 +63,7 @@ Den studerende kan:
 - tilpasse IT-arkitektur, så der tages højde for fremtidig integration af systemer.
 
 
-## Course Content / Tentative Plan 
+## Tentative Plan
 Here is a tentative plan of topics and teaching sessions (please, be aware it may be updated in the way).
 						
      						
