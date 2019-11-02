@@ -8,7 +8,7 @@
 - [Introduction](#introduction)
 - [Learning Objectives](#learning-objectives)
 - [Course Content/Tentative Plan](#course-content-and-tentative-plan) 
-- [Assignments](#graded-assignments)
+- [Assignments](#assignments)
 - [Score](#score)
 - [Exam](#exam)
 - [Resources](#recommended-books)
@@ -87,10 +87,10 @@ Here is a tentative plan of topics and teaching sessions (please, be aware it ma
 | 14         | 04/12/2019 | 15          | 49            | Agile development and integration, DevOps technologies and tools    | Cloud computing, CI/CD                                     | Jenkins, IBM cloud              |
 | 15         | 11/12/2019 | 16          | 50            | Group Project 3                                                     | Presentations and feedback                                 |                                 |
 
-## Graded Assignments
+## Assignments
 During the semester, you will work on various projects and programming tasks. 
-There will be **three group projects**, **four individual homework tasks**, **two peer grade tasks**, and **one multiple choice test**, as shown below.
-Each assignment provides certain number of credit points. The total number of points is 100. 
+There will be **three group projects**, **four individual homework tasks**, **two peer grade tasks**, and **one multiple choice test**, which provide certain number of credit points, as shown below.
+The total number of points is 100. 
 
 
 | **#** | **assignments**                             |**points**|
