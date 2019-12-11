@@ -18,14 +18,14 @@
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week40">Week 40: BPM, BPMN</a><br>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week41">Week 41: SOA and Middleware</a><br>
       <i>Vacation</i><br>      
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week43">Week 43: MOM and ESB</a><br>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week44">Week 44: EIP</a><br>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week39">Week 45: Mini Project 2</a><br> 
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week43">Week 43: EIP</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week44">Week 44: EI Platforms</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week45">Week 45: Mini Project 2</a><br> 
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week46">Week 46: Microservices Architecture</a><br>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week47">Week 47: Choreography and Orchestration</a><br>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week48">Week 48: APIs</a><br>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week49">Week 49: iPaaS</a><br>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week39">Week 50: Mini Project 3</a><br> 
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week47">Week 47: Deployment of Microservices</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week48">Week 48: Microservices and Web APIs</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week49">Week 49: Microservices, Orchestration, and CI/CD</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week50">Week 50: Mini Project 3</a><br> 
   </details>
   </body>
 </html>
