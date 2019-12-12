@@ -43,7 +43,7 @@ implementing enterprise integration patterns – Apache Camel</li>
 <h3>Course Info</h3>
 <li>General information about the course <a href="https://datsoftlyngby.github.io/soft2019fall/SI/course-info.html">System Integration</a></li>
 <h3>Tentative Plan</h3>
-<li><a href=https://datsoftlyngby.github.io/soft2019fall/SI/tentative-plan.html">System Integration course contents</a>, schedulled by sessions/weeks.</li>
+<li><a href="https://datsoftlyngby.github.io/soft2019fall/SI/tentative-plan.html">System Integration course contents</a>, schedulled by sessions/weeks.</li>
 <h3>Web Link</h3>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si">System Integration Web</a>
 
