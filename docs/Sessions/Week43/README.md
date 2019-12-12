@@ -30,7 +30,7 @@ implementing enterprise integration patterns – Apache Camel</li>
 <a href="https://cphbusiness.mrooms.net/pluginfile.php/290816/mod_resource/content/1/Session7EIP.pdf">Session 7: Enterprise Integration Patterns</a>
   
 <h3>Programming Exercises</h3>
-<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week43/Class%20Exercises/">Class Exercises</a><br>
+<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week43/Class%20Exercises.md/">Class Exercises</a><br>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week43/Assignments/">Assignments</a> 
 	
 <h3>Other Learning Resources</h3>
