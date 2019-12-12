@@ -22,11 +22,11 @@
 </ul>
  
 <h3>Lecture Notes</h3>
-  	<a href="https://cphbusiness.mrooms.net/pluginfile.php/300529/mod_resource/content/1/Session12FactorApps.pdf">Session 11: Microservices and Cloud-Native Apps</a>
+<a href="https://cphbusiness.mrooms.net/pluginfile.php/300529/mod_resource/content/1/Session12FactorApps.pdf">Session 11: Microservices and Cloud-Native Apps</a>
   
 <h3>Programming Exercises</h3>
-	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week48/Class%20Exercises.md">Class Exercises</a><br>
-	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week48/Assignments.md">Assignments</a> 
+<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week48/Class%20Exercises.md/">Class Exercises</a><br>
+<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week48/Assignments.md/">Assignments</a> 
 	
 <h3>Other Learning Resources</h3>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week48/Resources.md/">Link to Resources</a><br>
