@@ -28,6 +28,7 @@
   	<a href="https://cphbusiness.mrooms.net/pluginfile.php/298830/mod_resource/content/1/Session10Containers.pdf">Session 10: Deployment of Microservices</a>
   
 <h3>Programming Exercises</h3>
+	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week47/Class%20Exercises.md">Class Exercises</a><br>
 	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week47/Assignments.md">Assignments</a> 
 	
 <h3>Other Learning Resources</h3>
