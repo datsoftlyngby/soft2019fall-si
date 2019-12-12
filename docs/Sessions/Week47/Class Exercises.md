@@ -198,6 +198,9 @@ kubectl -n my-dashboard describe secret my-dashboard-cluster-admin-token-7gshj
 ```
 #### 14. Log in the dashboard
 -	Run in terminal
+```
+kubectl proxy
+```
 -	Open in browser
 ```
 http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/
