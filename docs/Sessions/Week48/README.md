@@ -34,7 +34,7 @@
 
 <hr>
 <h3>Coming Next</h3>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week48/">Microservices and Cloud-Native Best Practices</a>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week49/">Microservices and Continuous Integration</a>
 <hr>
 <h3>Course Info</h3>
 <li>General information about the course <a href="https://datsoftlyngby.github.io/soft2019fall/SI/course-info.html">System Integration</a></li>
