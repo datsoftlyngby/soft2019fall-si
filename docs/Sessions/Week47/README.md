@@ -1,18 +1,19 @@
-# Week 44: Enterprise Integration Platforms 
+# Week 47: Deployment of Microservices 
 <h2>Overview</h2>
 <h3>Agenda</h3>
 <ul>
-  <li>EI Middleware Comparisson</li>
-  <li>From Centralised to Decentralised Orchestration</li>
-  <li>Agile EI Platforms</li>  
+  <li>Docker technologies for containerization</li>
+  <li>Composition and orchestration</li>
+  <li>Practice</li>  
 </ul>
 
 <h3>Intended Learning Objectives</h3>
 <ul>
-	<li>To be able to describe the difference between various integration styles
-and platforms</li>
-	<li>To get familiar with tendences in Enterprise Integration</li>
-  <li>To be able to make choice of appropriate integration style and platform</li>
+	<li>Experience with implementation of theoretical concept of microservices</li>
+	<li>Familiarisation with microservices integration environments</li>
+  	<li>Guidance to apply a full stack tools for building microservices</li>
+	<li>Building skills in using containers</li>
+	<li>Experience in combining integration technologies</li>
 </ul>
 
 <h3>Teaching and Learning Activities</h3>
@@ -24,18 +25,18 @@ and platforms</li>
 </ul>
  
 <h3>Lecture Notes</h3>
-  	<a href="https://cphbusiness.mrooms.net/pluginfile.php/293771/mod_resource/content/1/Session8All.pdf">Session 8: Agile Enterprise Integration Platforms</a>
+  	<a href="https://cphbusiness.mrooms.net/pluginfile.php/298830/mod_resource/content/1/Session10Containers.pdf">Session 10: Deployment of Microservices</a>
   
 <h3>Programming Exercises</h3>
-	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week44/Assignments.md">Assignments</a> 
+	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week47/Assignments.md">Assignments</a> 
 	
 <h3>Other Learning Resources</h3>
-<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week44/Resources.md/">Link to Resources</a><br>
+<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week47/Resources.md/">Link to Resources</a><br>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/code">Code Snippets</a>
 
 <hr>
 <h3>Coming Next</h3>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week45/">Microservices Architecture</a>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week48/">Microservices and Cloud-Native Best Practices</a>
 <hr>
 <h3>Course Info</h3>
 <li>General information about the course <a href="https://datsoftlyngby.github.io/soft2019fall/SI/course-info.html">System Integration</a></li>
