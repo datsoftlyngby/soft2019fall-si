@@ -27,7 +27,7 @@ implementing enterprise integration patterns – Apache Camel</li>
 </ul>
  
 <h3>Lecture Notes</h3>
-  	<a href="https://cphbusiness.mrooms.net/pluginfile.php/288702/mod_resource/content/1/Session7EIP.pdf">Session 7: Enterprise Integration Patterns</a>
+  	<a href="https://cphbusiness.mrooms.net/pluginfile.php/290816/mod_resource/content/1/Session7EIP.pdf">Session 7: Enterprise Integration Patterns</a>
   
 <h3>Programming Exercises</h3>
 	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week43/Assignments">Assignments</a> 
@@ -43,7 +43,7 @@ implementing enterprise integration patterns – Apache Camel</li>
 <h3>Course Info</h3>
 <li>General information about the course <a href="https://datsoftlyngby.github.io/soft2019fall/SI/course-info.html">System Integration</a></li>
 <h3>Tentative Plan</h3>
-<li><a href="https://datsoftlyngby.github.io/soft2019fall-si/Info/tentative-plan">System Integration course contents</a>, schedulled by sessions/weeks.</li>
+<li><a href=https://datsoftlyngby.github.io/soft2019fall/SI/tentative-plan.html">System Integration course contents</a>, schedulled by sessions/weeks.</li>
 <h3>Web Link</h3>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si">System Integration Web</a>
 
