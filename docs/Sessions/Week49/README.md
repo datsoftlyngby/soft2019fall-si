@@ -22,11 +22,11 @@
 </ul>
  
 <h3>Lecture Notes</h3>
-  	<a href="https://cphbusiness.mrooms.net/pluginfile.php/302297/mod_resource/content/1/Session11CI.pdf">Session 12: Microservices, Orchestration, and CI/CD</a>
+<a href="https://cphbusiness.mrooms.net/pluginfile.php/302297/mod_resource/content/1/Session11CI.pdf">Session 12: Microservices, Orchestration, and CI/CD</a>
   
 <h3>Programming Exercises</h3>
-	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week49/Class%20Exercises.md">Class Exercises</a><br>
-	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week49/Assignment.md">Assignments</a> 
+<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week49/Class%20Exercises.md/">Class Exercises</a><br>
+<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week49/Assignment.md/">Assignments</a> 
 	
 <h3>Other Learning Resources</h3>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week49/Resources.md/">Link to Resources</a><br>
