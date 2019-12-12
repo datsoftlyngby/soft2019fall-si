@@ -2,8 +2,8 @@
 <h2>Overview</h2>
 <h3>Agenda</h3>
 <ul>
-	<li>EI Middleware Comparisson</li>
-  <li>From Centralized to Decentralized ESB</li>
+  <li>EI Middleware Comparisson</li>
+  <li>From Centralised to Decentralised Orchestration</li>
   <li>Agile EI Platforms</li>  
 </ul>
 
