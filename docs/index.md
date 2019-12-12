@@ -20,8 +20,8 @@
       <i>Vacation</i><br>      
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week43">Week 43: EIP</a><br>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week44">Week 44: EI Platforms</a><br>
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week45">Week 45: Mini Project 2</a><br> 
-<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week46">Week 46: Microservices Architecture</a><br>
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week46">Week 45: Mini Project 2</a><br> 
+<a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week45">Week 46: Microservices Architecture</a><br>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week47">Week 47: Deployment of Microservices</a><br>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week48">Week 48: Microservices and Web APIs</a><br>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week49">Week 49: Microservices, Orchestration, and CI/CD</a><br>
