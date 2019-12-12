@@ -3,7 +3,7 @@
 This repo contains teaching materials used in the System Integration classes at CPHbusiness during 2019 Fall semester.<br>
 The documents are organized in folders on weekly basis, and contain lecture notes, programming assignments, reference to reading resources, and other useful links.
 
-The __Tentive Plan__ of weekly sessions resides [here](https://datsoftlyngby.github.io/soft2019fall/SI/tentative-plan.html).
+The __Tentive Plan__ of weekly sessions resides [here](https://github.com/datsoftlyngby/soft2019fall-si/blob/master/docs/Info/tentative-plan.md).
 
 The list of __Graded Assignments__ - those that give credits as exam prerequisites, stays [here](https://datsoftlyngby.github.io/soft2019fall-si/Info/graded-assignments).
 
