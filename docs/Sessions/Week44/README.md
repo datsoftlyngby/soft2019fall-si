@@ -9,8 +9,7 @@
 
 <h3>Intended Learning Objectives</h3>
 <ul>
-	<li>To be able to describe the difference between various integration styles
-and platforms</li>
+	<li>To be able to describe the difference between various integration styles and platforms</li>
 	<li>To get familiar with tendences in Enterprise Integration</li>
   <li>To be able to make choice of appropriate integration style and platform</li>
 </ul>
@@ -24,10 +23,10 @@ and platforms</li>
 </ul>
  
 <h3>Lecture Notes</h3>
-  	<a href="https://cphbusiness.mrooms.net/pluginfile.php/293771/mod_resource/content/1/Session8All.pdf">Session 8: Agile Enterprise Integration Platforms</a>
+<a href="https://cphbusiness.mrooms.net/pluginfile.php/293771/mod_resource/content/1/Session8All.pdf">Session 8: Agile Enterprise Integration Platforms</a>
   
 <h3>Programming Exercises</h3>
-	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week44/Assignments.md">Assignments</a> 
+<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week44/Assignments.md">Assignments</a> 
 	
 <h3>Other Learning Resources</h3>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week44/Resources.md/">Link to Resources</a><br>
