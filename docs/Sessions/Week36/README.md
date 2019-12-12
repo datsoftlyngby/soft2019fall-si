@@ -31,12 +31,12 @@ This folder contains resources related to the System Integration topics, discuss
 </ul>
  
 <h3>Lecture Notes</h3>
-  	<a href="https://cphbusiness.mrooms.net/pluginfile.php/277596/mod_resource/content/1/RPCRMI.pdf">Session 2: Distributed Computing, RPC and RMI</a>
+<a href="https://cphbusiness.mrooms.net/pluginfile.php/277596/mod_resource/content/1/RPCRMI.pdf">Session 2: Distributed Computing, RPC and RMI</a>
   
 <h3>Programming Exercises</h3>
 <ul>
-	<li><a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36/Class%20Exercises#P4-RMI"> P4</a></li> 
-	<li><a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36/Class%20Exercises#P5-RMIDB">P5</a></li> 
+	<li><a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36/Class%20Exercises#P4-RMI/"> P4</a></li> 
+	<li><a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36/Class%20Exercises#P5-RMIDB/">P5</a></li> 
 </ul>
       
 <h3>Homework Assignments <a href="https://app.peergrade.io/teacher/courses/cad8c537-e32d-4552-b083-27aa02dfe9e6/assignments"> (Peergrade) </a> </h3>
