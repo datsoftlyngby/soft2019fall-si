@@ -26,7 +26,7 @@
   
 <h3>Programming Exercises</h3>
 	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week49/Class%20Exercises.md">Class Exercises</a><br>
-	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week49/Assignments.md">Assignments</a> 
+	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week49/Assignment.md">Assignments</a> 
 	
 <h3>Other Learning Resources</h3>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week49/Resources.md/">Link to Resources</a><br>
