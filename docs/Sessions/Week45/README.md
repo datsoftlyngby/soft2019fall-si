@@ -25,13 +25,13 @@
 </ul>
  
 <h3>Lecture Notes</h3>
-  	<a href="https://cphbusiness.mrooms.net/pluginfile.php/293771/mod_resource/content/1/Session9Microservices.pdf">Session 9: Microservices Architecture</a>
+  	<a href="https://cphbusiness.mrooms.net/pluginfile.php/295381/mod_resource/content/1/Session9Microservices.pdf">Session 9: Microservices Architecture</a>
   
 <h3>Programming Exercises</h3>
-	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week45/Assignments">Assignments</a> 
+	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week45/Assignments.md">Assignments</a> 
 	
 <h3>Other Learning Resources</h3>
-<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week44/Resources/">Link to Resources</a><br>
+<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week44/Resources.md/">Link to Resources</a><br>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/code">Code Snippets</a>
 
 <hr>
