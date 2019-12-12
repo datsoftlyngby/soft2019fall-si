@@ -44,10 +44,10 @@ This folder contains resources related to the System Integration topics, discuss
 </ul>
  
 <h3>Lecture Notes</h3>
-  	<a href="https://cphbusiness.mrooms.net/pluginfile.php/288702/mod_resource/content/1/Session6SOAMW.pdf">Session 6: SOA, MOM, and ESB</a>
+<a href="https://cphbusiness.mrooms.net/pluginfile.php/288702/mod_resource/content/1/Session6SOAMW.pdf">Session 6: SOA, MOM, and ESB</a>
   
 <h3>Programming Exercises</h3>
-	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week41/Assignments">Assignments</a> 
+<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week41/Assignments/">Assignments</a> 
 	
 <h3>Other Learning Resources</h3>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week41/Resources/">Link to Resources</a><br>
