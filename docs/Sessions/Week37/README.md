@@ -3,7 +3,7 @@ This folder contains resources related to the System Integration topics, discuss
 <h2>Overview</h2>
 <h3>Agenda</h3>
 <ul>
-	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week36>Recap of Distributed Computing and RPC</a></li>
+	<li><a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week36/">Recap of Distributed Computing and RPC</a></li>
 	<li>Web Services</li>
 	<li>SOAP Web Services</li>
 	   <ul>
@@ -13,7 +13,8 @@ This folder contains resources related to the System Integration topics, discuss
 	    </ul>
   	<li>Java Technologies for Web Services</li>
   	<li>Class Exercises</li>
-	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week38>Coming next</a></li>
+	<li><a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week38/">Coming next</a></li>
+</ul>
 </ul>
 
 <h3>Intended Learning Objectives</h3>
