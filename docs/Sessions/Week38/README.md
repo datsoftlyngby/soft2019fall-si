@@ -40,7 +40,7 @@ This folder contains resources related to the System Integration topics, discuss
 <a href="https://cphbusiness.mrooms.net/pluginfile.php/282621/mod_resource/content/1/Session4WSREST.pdf">Session 4: Web Services, REST</a>
   
 <h3>Programming Exercises</h3>
-<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week38/Assignments/>Assignments</a></li> 
+<li><a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week38/Assignments/">Assignments</a></li> 
       
 <h3>Homework Assignments <a href="https://app.peergrade.io/teacher/courses/cad8c537-e32d-4552-b083-27aa02dfe9e6/assignments/"> (Peergrade) </a> </h3>
 It is a group project, a larger programming task of developing business application, which consumes at least two web services: one SOAP and one REST.<br>
