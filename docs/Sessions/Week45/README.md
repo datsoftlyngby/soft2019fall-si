@@ -28,11 +28,11 @@
   	<a href="https://cphbusiness.mrooms.net/pluginfile.php/295381/mod_resource/content/1/Session9Microservices.pdf">Session 9: Microservices Architecture</a>
   
 <h3>Programming Exercises</h3>
-	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week45/Class%20Exercises">Class Exercises</a> 
+	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week45/Class%20Exercises">Class Exercises</a><br>
 	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week45/Assignments.md">Assignments</a> 
 	
 <h3>Other Learning Resources</h3>
-<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week45/Resources.md/">Link to Resources</a>
+<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week45/Resources.md/">Link to Resources</a><br>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/code">Code Snippets</a>
 
 <hr>
@@ -45,6 +45,3 @@
 <li><a href="https://datsoftlyngby.github.io/soft2019fall/SI/tentative-plan.html">System Integration course contents</a>, schedulled by sessions/weeks.</li>
 <h3>Web Link</h3>
 <a href="https://datsoftlyngby.github.io/soft2019fall-si">System Integration Web</a>
-
-
-
