@@ -16,7 +16,7 @@ This folder contains resources related to the System Integration topics, discuss
 	   </ul>  	
   	<li>Utilities for supporting developers in programming REST web services</li>
     <li>Hands-on experience</li> 
-	<li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week39>Coming next</a></li>
+	<li><a href="https://datsoftlyngby.github.io/soft2019fall-si/Sessions/Week39/">Coming next</a></li>
 </ul>
 
 <h3>Intended Learning Objectives</h3>
@@ -42,7 +42,7 @@ This folder contains resources related to the System Integration topics, discuss
 <h3>Programming Exercises</h3>
 <li><a href=https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week38/Assignments/>Assignments</a></li> 
       
-<h3>Homework Assignments <a href="https://app.peergrade.io/teacher/courses/cad8c537-e32d-4552-b083-27aa02dfe9e6/assignments"> (Peergrade) </a> </h3>
+<h3>Homework Assignments <a href="https://app.peergrade.io/teacher/courses/cad8c537-e32d-4552-b083-27aa02dfe9e6/assignments/"> (Peergrade) </a> </h3>
 It is a group project, a larger programming task of developing business application, which consumes at least two web services: one SOAP and one REST.<br>
 	
 <h3>Other Learning Resources</h3>
