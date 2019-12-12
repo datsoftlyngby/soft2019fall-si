@@ -6,6 +6,7 @@
   <li>Lab practice</li>
 </ul>
 
+<h3>Intended Learning Objectives</h3>
 <ul>
 	<li>Learning more about DevOps, microservices, cloud native and web apps</li>
 	<li>Get familiar with the best practices in developing microservices architecture, continuous integration and deployment</li>
