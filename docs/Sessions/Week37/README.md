@@ -36,7 +36,7 @@ This folder contains resources related to the System Integration topics, discuss
 </ul>
  
 <h3>Lecture Notes</h3>
-  	<a https://cphbusiness.mrooms.net/mod/resource/view.php?id=167165">Session 3: Web Services, SOAP</a>
+<a https://cphbusiness.mrooms.net/mod/resource/view.php?id=167165">Session 3: Web Services, SOAP</a>
   
 <h3>Programming Exercises</h3>
 <ul>
