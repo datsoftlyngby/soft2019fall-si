@@ -27,10 +27,10 @@ and platforms</li>
   	<a href="https://cphbusiness.mrooms.net/pluginfile.php/293771/mod_resource/content/1/Session8All.pdf">Session 8: Agile Enterprise Integration Platforms</a>
   
 <h3>Programming Exercises</h3>
-	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week44/Assignments">Assignments</a> 
+	<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week44/Assignments.md">Assignments</a> 
 	
 <h3>Other Learning Resources</h3>
-<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week44/Resources/">Link to Resources</a><br>
+<a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/docs/Sessions/Week44/Resources.md/">Link to Resources</a><br>
 <a href="https://github.com/datsoftlyngby/soft2019fall-si/tree/master/code">Code Snippets</a>
 
 <hr>
